@@ -2,8 +2,13 @@
 console.log("Hello World");
 console.log("Hello World Again"); */
 
-var nome = "Ingrid";
-nome = "Ingrid de Souza";
+//var idade = 9*2;
+//var nome = "Ingrid";
+
+let idade = 9*2;
+const nome = "Ingrid";
+
+//nome = "Ingrid de Souza";
 console.log(nome);
 
 
@@ -13,8 +18,11 @@ console.log(nome);
 
 
 
-/* var = variável; 
+/* var = variável, var aceita numeros ex: 5x4.. melhor usar let ou const;
+const = constante, não pode ser alterado o valor;
+let = variável, let aceita numeros ex: 5x4;
 console.log = imprimir variável no console do navegador, se colocar outro valor para "nome" 
 ele irá substituir o anterior;
 string = informações de texto( tudo que é texto é string), posso colocar aspas simples ou duplas;
+
 */
