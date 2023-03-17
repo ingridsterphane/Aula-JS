@@ -8,9 +8,10 @@ console.log("Hello World Again"); */
 let idade = 9*2;
 const nome = "Ingrid";
 
+idade = idade + 1; // posso alterar o valor de idade
 //nome = "Ingrid de Souza";
 console.log(nome);
-
+console.log(idade);
 
 
 
