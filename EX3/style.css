@@ -16,3 +16,10 @@ input[type="text"] {
     border-radius: 5px;
     margin: 5px 0;
 }
+
+.problema {
+    background: #f00;
+    color: cornsilk;
+    padding: 5px;
+    margin: 5px;
+}
